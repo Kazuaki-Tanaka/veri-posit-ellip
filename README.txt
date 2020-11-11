@@ -1,4 +1,4 @@
-Witten 11/11/2020 K.Tanaka
+witten 11/11/2020 K.Tanaka
 
 This repository provides the set of codes related with the article
 "A posteriori verification of the positivity of solutions to elliptic problems"
