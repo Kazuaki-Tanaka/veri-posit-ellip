@@ -25,16 +25,13 @@ while assuming an H10-error estimation given some numerical approximation and an
 This program requires some constants that can be calculated by the approximate solution.
 The constants should be calculated before using this program.
 
-
 fixedpoint_tanx.cc
 calculates a rigorous enclosure of the first positive zero of x = tan(x).
 The zero coincides with the first positive zero of the Bessel function with order 1.5.
 The computation relies on the function "allsol" packaged in the kv library.
 
-
 besselzero_order0.cc
 calculates a rigorous enclosure of the first positive zero of the Bessel function with order 0.
-
 
 besselzero_order1.cc
 calculates a rigorous enclosure of the first positive zero of the Bessel function with order 1.
