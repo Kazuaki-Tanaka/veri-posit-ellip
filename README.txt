@@ -1,10 +1,23 @@
-witten 11/11/2020 K.Tanaka
+Witten 11/11/2020 K.Tanaka
 
 This repository provides the set of codes related with the article
 "A posteriori verification of the positivity of solutions to elliptic problems"
 by Kazuaki Tanaka, Taisei Asai
 arXiv:2011.04510
 
+
+All MATLAB codes required INTLAB, a toolbox for rigorous computation.
+See
+http://www.ti3.tu-harburg.de/intlab/
+
+
+All c++ codes required the kv library, a toolbox for rigorous computation.
+See
+https://github.com/mskashi/kv
+or
+http://verifiedby.me/kv/index-e.html
+
+Programs:
 =====================================
 verify_positivity_elliptic.m
 verifies the positivity of a exact solution of exlliptic problems,
@@ -26,9 +39,3 @@ calculates a rigorous enclosure of the first positive zero of the Bessel functio
 besselzero_order1.cc
 calculates a rigorous enclosure of the first positive zero of the Bessel function with order 1.
 =====================================
-
-
-
-
-
-
