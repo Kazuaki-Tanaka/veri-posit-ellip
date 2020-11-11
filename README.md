@@ -1,1 +1,0 @@
-# veri-posit-ellip
