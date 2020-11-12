@@ -6,12 +6,12 @@ by Kazuaki Tanaka, Taisei Asai
 arXiv:2011.04510
 
 
-All MATLAB codes required INTLAB, a toolbox for rigorous computation.
+All MATLAB codes requires INTLAB, a toolbox for rigorous computation.
 See
 http://www.ti3.tu-harburg.de/intlab/
 
 
-All c++ codes required the kv library, a toolbox for rigorous computation.
+All c++ codes requires the kv library, a toolbox for rigorous computation.
 See
 https://github.com/mskashi/kv
 or
